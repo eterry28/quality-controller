@@ -1,5 +1,5 @@
-# Project
+# The Quality Controller
 
-**Title**
+**A newspaper style newsletter for my QC team**
 
-lorem discription
+A place for me to put QC team information.
